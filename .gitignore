@@ -160,11 +160,13 @@ cython_debug/
 #.idea/
 
 # Data
-.csv
-.pkl
-.npy
-.npz
+*.csv
+*.pkl
+*.npy
+*.npz
+
+*.txt
 
 # Files
-.pdf
-.djvu
+*.pdf
+*.djvu
